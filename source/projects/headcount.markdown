@@ -55,6 +55,8 @@ We'll build upon a dataset centered around schools in Colorado provided by the A
      end
    end
    ```
+1. Install the test harness aka additional tests to help make sure you are on track
+   https://github.com/rossedfort/headcount_test_harness
 
 ## Base Expectations
 
